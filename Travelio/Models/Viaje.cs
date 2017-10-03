@@ -26,5 +26,10 @@ namespace Travelio.Models
             get;
             set;
         }
+
+        public override string ToString()
+        {
+            return $"{Nombre} ({FechaInicio:d} - {FechaRegreso:d})]";
+        }
     }
 }
