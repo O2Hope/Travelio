@@ -12,11 +12,16 @@ public final class R {
     }
     public static final class id {
         public static final int btnEntrar=0x7f050002;
+        public static final int btnGuardar=0x7f050006;
+        public static final int dpIda=0x7f050004;
+        public static final int dpRegreso=0x7f050005;
+        public static final int etLugar=0x7f050003;
         public static final int etPassword=0x7f050001;
         public static final int etUsuario=0x7f050000;
     }
     public static final class layout {
         public static final int main=0x7f030000;
+        public static final int nuevoviaje=0x7f030001;
     }
     public static final class mipmap {
         public static final int icon=0x7f020000;

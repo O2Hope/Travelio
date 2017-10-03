@@ -5,6 +5,12 @@
 /Users/anaisabel/Projects/Travelio/Droid/obj/Debug/android/assets/System.dll
 /Users/anaisabel/Projects/Travelio/Droid/obj/Debug/android/assets/System.Xml.dll
 /Users/anaisabel/Projects/Travelio/Droid/obj/Debug/android/assets/mscorlib.dll
+/Users/anaisabel/Projects/Travelio/Droid/obj/Debug/android/assets/SQLite-net.dll
+/Users/anaisabel/Projects/Travelio/Droid/obj/Debug/android/assets/SQLitePCLRaw.batteries_green.dll
+/Users/anaisabel/Projects/Travelio/Droid/obj/Debug/android/assets/SQLitePCLRaw.batteries_v2.dll
+/Users/anaisabel/Projects/Travelio/Droid/obj/Debug/android/assets/SQLitePCLRaw.core.dll
+/Users/anaisabel/Projects/Travelio/Droid/obj/Debug/android/assets/SQLitePCLRaw.lib.e_sqlite3.dll
+/Users/anaisabel/Projects/Travelio/Droid/obj/Debug/android/assets/SQLitePCLRaw.provider.e_sqlite3.dll
 /Users/anaisabel/Projects/Travelio/Droid/obj/Debug/android/assets/Travelio.dll
 /Users/anaisabel/Projects/Travelio/Droid/obj/Debug/android/assets/System.Runtime.dll
 /Users/anaisabel/Projects/Travelio/Droid/obj/Debug/android/assets/System.ComponentModel.Composition.dll
@@ -21,3 +27,6 @@
 /Users/anaisabel/Projects/Travelio/Droid/obj/Debug/android/assets/System.Runtime.Serialization.dll
 /Users/anaisabel/Projects/Travelio/Droid/obj/Debug/android/assets/System.ServiceModel.Internals.dll
 /Users/anaisabel/Projects/Travelio/Droid/obj/Debug/android/assets/Mono.Security.dll
+/Users/anaisabel/Projects/Travelio/Droid/obj/Debug/android/assets/System.Linq.Expressions.dll
+/Users/anaisabel/Projects/Travelio/Droid/obj/Debug/android/assets/System.Threading.Tasks.dll
+/Users/anaisabel/Projects/Travelio/Droid/obj/Debug/android/assets/System.Globalization.dll

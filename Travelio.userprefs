@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{730266DF-BECB-45CC-A048-A46976D8455A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/NuevoViajeActivity.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Travelio/Helpers/DatabaseHelper.cs">
     <Files>
-      <File FileName="Droid/NuevoViajeActivity.cs" Line="1" Column="1" />
+      <File FileName="Travelio/Helpers/DatabaseHelper.cs" Line="43" Column="11" />
+      <File FileName="Droid/ListaViajesActivity.cs" Line="23" Column="44" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
