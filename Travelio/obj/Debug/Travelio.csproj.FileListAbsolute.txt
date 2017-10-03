@@ -1,5 +1,11 @@
 /Users/anaisabel/Projects/Travelio/Travelio/bin/Debug/Travelio.dll
 /Users/anaisabel/Projects/Travelio/Travelio/bin/Debug/Travelio.pdb
+/Users/anaisabel/Projects/Travelio/Travelio/bin/Debug/SQLite-net.dll
+/Users/anaisabel/Projects/Travelio/Travelio/bin/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/anaisabel/Projects/Travelio/Travelio/bin/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/anaisabel/Projects/Travelio/Travelio/bin/Debug/SQLitePCLRaw.core.dll
+/Users/anaisabel/Projects/Travelio/Travelio/bin/Debug/SQLite-net.pdb
+/Users/anaisabel/Projects/Travelio/Travelio/bin/Debug/SQLite-net.xml
 /Users/anaisabel/Projects/Travelio/Travelio/obj/Debug/Travelio.csproj.CoreCompileInputs.cache
 /Users/anaisabel/Projects/Travelio/Travelio/obj/Debug/Travelio.dll
 /Users/anaisabel/Projects/Travelio/Travelio/obj/Debug/Travelio.pdb

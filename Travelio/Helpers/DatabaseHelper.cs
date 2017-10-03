@@ -1,5 +1,6 @@
 ﻿using System;
-namespace Travelio.NewFolder
+
+namespace Travelio.Helpers
 {
     public class DatabaseHelper
     {
@@ -38,5 +39,7 @@ namespace Travelio.NewFolder
             }
             return false;
         }
+
+        
     }
 }
