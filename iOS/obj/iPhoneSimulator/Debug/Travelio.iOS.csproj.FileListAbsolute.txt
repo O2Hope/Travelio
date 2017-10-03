@@ -1,0 +1,12 @@
+/Users/anaisabel/Projects/Travelio/iOS/bin/iPhoneSimulator/Debug/Travelio.iOS.exe
+/Users/anaisabel/Projects/Travelio/iOS/bin/iPhoneSimulator/Debug/Travelio.iOS.pdb
+/Users/anaisabel/Projects/Travelio/iOS/bin/iPhoneSimulator/Debug/Travelio.dll
+/Users/anaisabel/Projects/Travelio/iOS/bin/iPhoneSimulator/Debug/Travelio.pdb
+/Users/anaisabel/Projects/Travelio/iOS/obj/iPhoneSimulator/Debug/Travelio.iOS.csprojResolveAssemblyReference.cache
+/Users/anaisabel/Projects/Travelio/iOS/obj/iPhoneSimulator/Debug/Travelio.iOS.csproj.CoreCompileInputs.cache
+/Users/anaisabel/Projects/Travelio/iOS/obj/iPhoneSimulator/Debug/Travelio.iOS.exe
+/Users/anaisabel/Projects/Travelio/iOS/obj/iPhoneSimulator/Debug/Travelio.iOS.pdb
+/Users/anaisabel/Projects/Travelio/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/anaisabel/Projects/Travelio/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/anaisabel/Projects/Travelio/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/anaisabel/Projects/Travelio/iOS/obj/iPhoneSimulator/Debug/optimized/

@@ -1,5 +1,16 @@
-﻿<Properties StartupConfiguration="{606107CD-72A5-4078-BFEC-AC8DA93F0787}|Default">
-  <MonoDevelop.Ide.ItemProperties.Travelio.iOS>
+﻿<Properties StartupConfiguration="{730266DF-BECB-45CC-A048-A46976D8455A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/MainActivity.cs">
+    <Files>
+      <File FileName="Droid/MainActivity.cs" Line="9" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Travelio.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.ItemProperties.Travelio.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1C469FE4-575C-4208-B6A8-1E145B5C02F8">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.Travelio.iOS>
   <MultiItemStartupConfigurations />

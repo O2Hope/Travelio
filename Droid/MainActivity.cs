@@ -1,14 +1,15 @@
 ﻿using Android.App;
 using Android.Widget;
 using Android.OS;
+using System;
 
 namespace Travelio.Droid
 {
     [Activity(Label = "Travelio", MainLauncher = true, Icon = "@mipmap/icon")]
     public class MainActivity : Activity
     {
-        int count = 1;
-
+        EditText etUsuario, etPassword;
+        Button btnIniciar;
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
@@ -16,12 +17,25 @@ namespace Travelio.Droid
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
 
-            // Get our button from the layout resource,
-            // and attach an event to it
-            Button button = FindViewById<Button>(Resource.Id.myButton);
+            etUsuario = FindViewById<EditText>(Resource.Id.etUsuario);
+            etPassword = FindViewById<EditText>(Resource.Id.etPassword);
+            btnIniciar = FindViewById<Button>(Resource.Id.btnEntrar);
 
-            button.Click += delegate { button.Text = $"{count++} clicks!"; };
+            btnIniciar.Click += BtnIniciar_Click;
         }
+
+        void BtnIniciar_Click(object sender, EventArgs e)
+        {
+            if (String.IsNullOrEmpty(etUsuario.Text) || String.IsNullOrEmpty(etPassword.Text))
+            {
+                //TODO: Alerta a usuario por falta de datos
+            }
+            else
+            {
+                //TODO: Navegacion a pagina principal
+            }
+        }
+
     }
 }
 

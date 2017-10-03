@@ -1,0 +1,4 @@
+Travelio.Droid.MainActivity, Travelio.Droid;md5e91248975b8527229f0bcab768d1e11a.MainActivity
+Travelio.Droid.MainActivity, Travelio.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e91248975b8527229f0bcab768d1e11a.MainActivity
+Travelio.Droid.MainActivity;md5e91248975b8527229f0bcab768d1e11a.MainActivity
+travelio.droid.MainActivity;md5e91248975b8527229f0bcab768d1e11a.MainActivity
