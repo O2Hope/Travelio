@@ -31,7 +31,7 @@ namespace Travelio.NewFolder
 
         public static bool Delete<T>(ref T item, string rutaDB)
         {
-            using(var conexion = new SQLite.SQLiteConnection(item))
+            using(var conexion = new SQLite.SQLiteConnection(rutaDB))
             {
                 if (conexion.Delete(item) > 0)
                     return true;

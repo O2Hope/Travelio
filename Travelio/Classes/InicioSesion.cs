@@ -10,10 +10,7 @@ namespace Travelio.Classes
         public static bool IniciarSesion(string usuario, string password)
         {
             if (String.IsNullOrEmpty(usuario) || String.IsNullOrEmpty(password))
-            {
                 return false;
-            }
-
             return true;
 
         }
